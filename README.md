@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy JonathanApps
+# 👋 ¡Hola! Soy Jonathan
 
 ### **Desarrollador Freelance** | Especializado en crear soluciones prácticas con Python y automatización
 
