@@ -1,4 +1,3 @@
-[README-github.md](https://github.com/user-attachments/files/31635603/README-github.md)
 # 👋 Hola, soy Jonathan Dinarte
 
 ### Desarrollador Web y Móvil | JavaScript • Flutter • Sistemas a medida
