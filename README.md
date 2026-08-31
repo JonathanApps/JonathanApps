@@ -59,7 +59,7 @@ Catálogo digital con carrito, cálculo del total y envío del pedido por WhatsA
 **Tecnologías:** HTML, CSS y JavaScript  
 🔗 [Ver proyecto](https://apps2026.online/fullstackcr/proyectos/tienda-personalizados.html)
 
-> Próximamente publicaré el código y la documentación individual de estos proyectos en nuevos repositorios.
+
 
 ---
 
