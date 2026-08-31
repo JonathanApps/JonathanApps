@@ -40,28 +40,27 @@ Soy estudiante de Ingeniería de Sistemas y creador de **FullStack CR**. Desarro
 
 ### 💰 Control Financiero Personal
 
-Herramienta para organizar ingresos, gastos fijos, ahorros, deudas y metas según el periodo de pago.
+Aplicación para organizar ingresos, gastos fijos, ahorros, deudas y metas según el periodo de pago.
 
-**Tecnologías:** HTML, CSS y JavaScript  
-🔗 [Ver proyecto](https://apps2026.online/fullstackcr/proyectos/control-financiero.html)
+[Ver código](https://github.com/JonathanApps/control-financiero-personal) · [Abrir demostración](https://apps2026.online/fullstackcr/proyectos/control-financiero.html)
 
 ### 📦 Control de Faltantes por Turno
 
-Sistema para registrar, localizar y revisar productos faltantes, reduciendo búsquedas manuales y errores.
+Sistema para registrar, localizar y revisar productos faltantes durante un turno operativo.
 
-**Tecnologías:** HTML, CSS y JavaScript  
-🔗 [Ver proyecto](https://apps2026.online/fullstackcr/proyectos/control-faltantes.html)
+[Ver código](https://github.com/JonathanApps/control-faltantes-turno) · [Abrir demostración](https://apps2026.online/fullstackcr/proyectos/control-faltantes.html)
 
 ### 🛍️ Tienda de Productos Personalizados
 
-Catálogo digital con carrito, cálculo del total y envío del pedido por WhatsApp para coordinar el pago.
+Tienda virtual con catálogo, carrito, inventario, pedidos por WhatsApp y panel administrativo.
 
-**Tecnologías:** HTML, CSS y JavaScript  
-🔗 [Ver proyecto](https://apps2026.online/fullstackcr/proyectos/tienda-personalizados.html)
+[Ver código](https://github.com/JonathanApps/tienda-productos-personalizados) · [Abrir demostración](https://apps2026.online/fullstackcr/proyectos/tienda-personalizados.html)
 
+### ⚡ Panel de Revisión de Slots
 
----
+Sistema para importar reportes, clasificar slots, revisar incidencias y exportar resultados.
 
+[Ver código](https://github.com/JonathanApps/panel-revision-slots) · [Abrir demostración](https://apps2026.online/fullstackcr/proyectos/panel-slots-revision.html)
 ## 🎯 Actualmente
 
 - Fortaleciendo mis conocimientos en desarrollo Full Stack.
